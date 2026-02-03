@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+firebase-admin
+google-cloud-firestore
+ultralytics
+opencv-python
+numpy
+pydantic
+pydantic-settings
+python-dotenv
+aiofiles
